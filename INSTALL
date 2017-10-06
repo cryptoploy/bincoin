@@ -1,0 +1,9 @@
+Building Bincoin
+
+See doc/readme-qt.rst for instructions on building Bincoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bincoin.
+
+See doc/build-*.txt for instructions on building bincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bincoin.
