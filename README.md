@@ -1,0 +1,2 @@
+# bincoin
+Bincoin Cryptocurrency
